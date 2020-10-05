@@ -101,19 +101,19 @@ Esses vídeos foram produzidos com o intuito de auxiliar aqueles que têm intere
 * [Documentação Oficial Dash](https://dash.plotly.com/introduction)
     * [Layout](https://dash.plotly.com/layout)
     * [Basic CallBacks](https://dash.plotly.com/basic-callbacks)
-    * [Dash Dev Tools](https://dash.plotly.com/devtools)
-    * [Multi-Page Apps](https://dash.plotly.com/urls)
     * [Overview Dash Core Components](https://dash.plotly.com/dash-core-components)
     * [Overview Dash HTML Components](https://dash.plotly.com/dash-html-components)
     * [Dash DataTable](https://dash.plotly.com/datatable)
         * [Dash DataTable - Styling](https://dash.plotly.com/datatable/style).
         * [Dash DataTable - Interactivity](https://dash.plotly.com/datatable/interactivity).
         * [Editable DataTable](https://dash.plotly.com/datatable/editable).
+    * [Dash Dev Tools](https://dash.plotly.com/devtools)
+    * [Multi-Page Apps](https://dash.plotly.com/urls)
 * [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
 
-<hr></hr>
+<br>
 
-<img src="rodape_no_github.jpg" align='center'>
+<img src="imagens/rodape_no_github.jpg" align='center'>
 
 
-# Bons estudos!
+# Bom estudo!

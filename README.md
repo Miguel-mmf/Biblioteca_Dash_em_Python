@@ -14,9 +14,9 @@ Esses vídeos foram produzidos com o intuito de auxiliar aqueles que têm intere
 
 | 1º Vídeo | 2º Vídeo | 3º Vídeo | 4º Vídeo |
 | :---: | :---: | :---: | :---: |
-[<img src="introducao.jpg" > <br> <sub> Introdução a Biblioteca Dash </sub>](https://youtu.be/CjhlN4UZc3I) | [<img src="layout.jpg" > <br> <sub> Layout com a Biblioteca Dash </sub>](https://youtu.be/S3xXAKBicPE) | [<img src="page_dash.jpg" > <br> <sub> Exemplo de Página com a Biblioteca Dash </sub>](https://youtu.be/dRgoPuUeQMs) | [<img src="callbacks.jpg" > <br> <sub> CallBacks com a Biblioteca Dash </sub>](https://youtu.be/Xff2GEpcawQ) |
+[<img src="imagens/introducao.jpg" > <br> <sub> Introdução a Biblioteca Dash </sub>](https://youtu.be/CjhlN4UZc3I) | [<img src="imagens/layout.jpg" > <br> <sub> Layout com a Biblioteca Dash </sub>](https://youtu.be/S3xXAKBicPE) | [<img src="imagens/page_dash.jpg" > <br> <sub> Exemplo de Página com a Biblioteca Dash </sub>](https://youtu.be/dRgoPuUeQMs) | [<img src="imagens/callbacks.jpg" > <br> <sub> CallBacks com a Biblioteca Dash </sub>](https://youtu.be/Xff2GEpcawQ) |
 | 5º Vídeo | 6º Vídeo | 7º Vídeo | 8º Vídeo |
-[<img src="core_components.jpg" > <br> <sub> Biblioteca Dash Core Components </sub>](https://youtu.be/q_83OeJNv2k) | [<img src="html_components.jpg" > <br> <sub> Biblioteca Dash HTML Components </sub>](https://youtu.be/N49IHkvV9qU) | [<img src="dash_datatable.jpg" > <br> <sub> Biblioteca Dash Table </sub>](https://youtu.be/-6HRKsD36qQ) | [<img src="mini_dashboard.jpg" > <br> <sub> Mini Dashboard com Dash em Python </sub>](https://youtu.be/5mJvsZa6h5s)
+[<img src="imagens/core_components.jpg" > <br> <sub> Biblioteca Dash Core Components </sub>](https://youtu.be/q_83OeJNv2k) | [<img src="imagens/html_components.jpg" > <br> <sub> Biblioteca Dash HTML Components </sub>](https://youtu.be/N49IHkvV9qU) | [<img src="imagens/dash_datatable.jpg" > <br> <sub> Biblioteca Dash Table </sub>](https://youtu.be/-6HRKsD36qQ) | [<img src="imagens/mini_dashboard.jpg" > <br> <sub> Mini Dashboard com Dash em Python </sub>](https://youtu.be/5mJvsZa6h5s)
 
 **Os exemplos utilizados nos vídeos estão dentro da pasta codigo_videos.**
 

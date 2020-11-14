@@ -4,14 +4,14 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # importando as bibliotecas necessárias
-import dash #1.16.2
-import dash_core_components as dcc #  1.12.1
+import dash #1.17.0
+import dash_core_components as dcc #1.12.1
 import dash_html_components as html # 1.1.1
 
-import dash_table # 4.4.1
+import dash_table #4.11.0
 
 # importando a biblioteca pandas que é indispensável e que fornece ferramentas para análise de dados
-import pandas as pd
+import pandas as pd #1.1.4
 
 # lendo um aquivo .csv com a função read_csv da biblioteca pandas
 df = pd.read_csv('sousa_geral_anual.csv')

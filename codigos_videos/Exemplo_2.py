@@ -4,8 +4,8 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # importando as bibliotecas necessárias
-import dash #1.16.2
-import dash_core_components as dcc #1.12.1
+import dash #1.17.0
+import dash_core_components as dcc #1.13.0
 import dash_html_components as html # 1.1.1
 
 # importando as funções que auxiliam no funcionamento das callbacks do subpacote dependencies do pacote dash 

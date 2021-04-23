@@ -4,9 +4,9 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # importando as bibliotecas necessárias
-import dash #1.17.0
-import dash_core_components as dcc #1.13.0
-import dash_html_components as html # 1.1.1
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
 
 # adicionando um estilo externo através do link abaixo
     # esse link é o recomendado pela documentação da biblioteca Dash e ao acessar esse link no seu navegador,

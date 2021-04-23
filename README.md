@@ -1,4 +1,4 @@
-<h1 align="center"> Introdução a Biblioteca Dash em Python</h1>
+<h1 align="center" style="font-weight:bold;"> Introdução a Biblioteca Dash em Python</h1>
 
 O objetivo deste material é introduzir e servir como guia rápido para a utilização da biblioteca Dash em Python. Dessa forma, esse material teve como base para a sua construção a documentação desse _framework_ disponível na internet.
 
@@ -59,13 +59,13 @@ Esses vídeos foram produzidos com o intuito de auxiliar aqueles que têm intere
 
 | Dash | Dash Renderer | Dash Core Components | Dash HTML Components | Dash Table | Plotly |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.17.0 | 1.8.3 | 1.13.0 | 1.1.1 | 4.11.0 | 4.12.0 |
+| 1.20.0 | 1.9.1 | 1.16.0 | 1.1.3 | 4.11.3 | 4.14.3 |
 
 
 ### **Instalando a Biblioteca Dash** <a name="installdash"></a>
 
 * Com o seu terminal/prompt de comando aberto, escreva o seguinte código para instalação:
-    > `pip install dash==1.17.0`
+    > `pip install dash==1.20.0`
 
 **Obs.:** _Caso você não especifique a versão que deseja instalar, utilizando o `pip`, pode ser que esse gerenciador de pacotes instale uma versão diferente na sua máquina, ocasionando, assim, problemas para desenvolver alguma aplicação._
 
@@ -113,7 +113,7 @@ Esses vídeos foram produzidos com o intuito de auxiliar aqueles que têm intere
 
 <br>
 
-<img src="images/rodape_no_github.jpg" Align='center'>
+<img src="images/rodape_no_github.jpg" Align='center' style="border-radius: 40px 40px 0px 0px;">
 
 
 # Bom estudo!

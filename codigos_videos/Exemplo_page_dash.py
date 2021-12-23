@@ -5,8 +5,9 @@
 
 # importando as bibliotecas necessárias
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc, html
+# import dash_core_components as dcc
+# import dash_html_components as html
 
 # adicionando um estilo externo através do link abaixo
     # esse link é o recomendado pela documentação da biblioteca Dash e ao acessar esse link no seu navegador,

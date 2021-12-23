@@ -6,8 +6,9 @@
 # importando as bibliotecas necessárias
 import dash
 import dash_table
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc, html
+# import dash_core_components as dcc
+# import dash_html_components as html
 from dash.dependencies import Input, Output
 
 # importando a biblioteca pandas que é indispensável e que fornece ferramentas para análise de dados
